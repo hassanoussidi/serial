@@ -13,7 +13,7 @@
 void setup() // 
 {
   Serial.begin(9600); // la velocidad de comunicacion entre el arduino y el ordenador
-  Serial.println("hello world!"); // muestra "hello world" en la pantalla con un salto de linea.
+  Serial.println("hello world!"); // visualiza "hello world" en la pantalla con un salto de linea.
 }
 
 
